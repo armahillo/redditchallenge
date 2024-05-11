@@ -68,3 +68,5 @@ gem "guard-rspec", "~> 4.7"
 
 gem "annotate", "~> 3.2"
 
+
+gem "capybara", "~> 3.40"
