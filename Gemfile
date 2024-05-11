@@ -63,3 +63,5 @@ end
 
 gem "rspec-rails", "~> 6.1"
 gem "guard-rspec", "~> 4.7"
+
+gem "annotate", "~> 3.2"
